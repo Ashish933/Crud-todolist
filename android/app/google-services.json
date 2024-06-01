@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411963024008",
+    "project_id": "signup-login-d8214",
+    "storage_bucket": "signup-login-d8214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411963024008:android:aa056899d7cfe03959f53d",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYQSiIK1gGp1qBZFhVulgycYblFVzUAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
